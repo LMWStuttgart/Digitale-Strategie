@@ -27,6 +27,6 @@ Wir sind uns der besonderen Verantwortung bewusst, die die Digitalisierung eines
 
 Wir verstehen das Digitale als einen wertvollen Vermittlungs- und Erkenntnisraum. Als ein zuverlässig und professionell agierender Akteur im Netz arbeiten wir kontinuierlich nicht nur an der Quantität, sondern auch an der Qualität unserer Daten. Für die Wissensvermittlung und Bildung nutzen wir digitale Instrumente und Konzepte. Zur Optimierung von Besucher- und Nutzererlebnissen im digitalen Raum entwickeln wir geeignete Kriterien und Verfahren.  
 
-**[6. Offen für Alle](06_offen.md)**
+**[6. Offen für Alle](06_offen-fuer-alle.md)**
 
 Wir setzen im Digitalen unsere offene Politik des Hauses fort. Wir inspirieren zum Mitgestalten und ermöglichen Teilhabe: Wir öffnen uns für den Dialog mit dem Publikum und schaffen digitale Räume für den Kontakt auf Augenhöhe. Dabei legen wir Wert darauf, bestehende Barrieren abzubauen und Zugänge für ein diverses/buntes/breitgefächertes Publikum zu schaffen.
