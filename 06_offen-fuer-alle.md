@@ -1,0 +1,5 @@
+## Offen für alle
+
+Wir setzen im Digitalen die offene Politik des Hauses fort. Wir inspirieren zum Mitgestalten und ermöglichen Teilhabe: Wir öffnen uns für den Dialog mit dem Publikum und schaffen digitale Räume für den Kontakt auf Augenhöhe. Dabei legen wir Wert darauf, bestehende Barrieren abzubauen und Zugänge für ein diverses Publikum zu schaffen.
+
+Die digitalen Produkte des Landesmuseums Württemberg richten sich, in enger Verschrän-kung mit den klassischen Angeboten (Ausstellungen, Führungen, etc.) an die Besucher*innen vor Ort sowie an Laien und Expert*innen von außerhalb. Um die Zugänglichkeit der Samm-lungen und der Themen des Hauses zu befördern und eine erfolgreiche und nachhaltige Bildungs- und Vermittlungsarbeit zu gewährleisten, nutzen wir im digitalen Output eine Methoden- und Formatvielfalt mit deutlicher Publikumsorientierung. Grundlage ist eine offene Grundhaltung und die kontinuierliche bzw. belastbare Orientierung über die Bedarfe einer zunehmend pluralistischen Gesellschaft.
