@@ -16,7 +16,7 @@ Wir stellen, gerade bei den digitalen Angeboten, das Publikum ins Zentrum. Wir w
 **[3. Vernetzung mit der Welt](03_vernetzung-mit-der-welt.md)</br></br>**
 Wir verfolgen eine Politik der offenen Kulturdaten und sind uns der Verantwortung bewusst, mit der wir Daten erstellen, anreichern und weitergeben. Um die Verbreitung und Vernetzung unserer Daten zu fördern, arbeiten wir mit internationalen Partnern, Plattformen, Aggregatoren und Institutionen zusammen.
 
-**4. Digitalisierung mit besonderer Verwantwortung</br></br>**
+**[4. Digitalisierung mit besonderer Verwantwortung](04_verantwortung.md)</br></br>**
 Wir sind uns der besonderen Verantwortung bewusst, die die Digitalisierung eines Museumsbetriebs mit sich bringt. Der Umgang mit Daten, Rechten und Pflichten für Betreiber*innen und Nutzer*innen, die Wahl der Partner und Plattformen sowie der Umgang mit Ressourcen markieren Eckpunkte unserer digitalen Strategie. Wir digitalisieren unsere Bestände nach international gültigen Standards und Normen. Wir bevorzugen Lösungen, die offen und nachvollziehbar sind (Open Source).
 	
 **5. Qualität im Netz</br></br>**
