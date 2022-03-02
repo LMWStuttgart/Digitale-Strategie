@@ -13,7 +13,7 @@ Das Digitale durchdringt zunehmend unsere internen Aufgabenbereiche, verändert 
 **[2. Das Publikum im Zentrum](02_publikum-im-zentrum.md)</br></br>**
 Wir stellen, gerade bei den digitalen Angeboten, das Publikum ins Zentrum. Wir wollen informieren, begeistern und faszinieren. Wir nutzen den Digitalen Raum um verschiedene Zugänge und Vermittlungsangebote für ein diverses Publikum zu entwickeln. Auf diese Weise schaffen wir einen digitalen Lernort, der das Museum vor Ort erweitert und mit dem digitalen Raum verschränkt.
 
-**3. Vernetzung mit der Welt</br></br>**
+**[3. Vernetzung mit der Welt](03_vernetzung-mit-der-welt.md)</br></br>**
 Wir verfolgen eine Politik der offenen Kulturdaten und sind uns der Verantwortung bewusst, mit der wir Daten erstellen, anreichern und weitergeben. Um die Verbreitung und Vernetzung unserer Daten zu fördern, arbeiten wir mit internationalen Partnern, Plattformen, Aggregatoren und Institutionen zusammen.
 
 **4. Digitalisierung mit besonderer Verwantwortung</br></br>**
