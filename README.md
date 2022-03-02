@@ -10,7 +10,7 @@ Wir verstehen die digitale Strategie des Landesmuseums als Grundlage in der digi
 **[1. Digitale Kompetenz](01_digitale-kompetenz.md)</br></br>**
 Das Digitale durchdringt zunehmend unsere internen Aufgabenbereiche, verändert innerbetriebliche Prozesse und fordert eine laufende Anpassung von Strukturen und Rahmenbedingungen. Gleichzeitig müssen die Kompetenzen aller Akteure in der passiven und aktiven Anwendung digitaler Techniken, Medien und Daten, gefördert werden. Als moderner Arbeitgeber stärken wir im Blick auf diese Entwicklungen unsere digitale Infrastruktur im Haus und entwickeln Verständnis und Fähigkeiten unserer Mitarbeiter*innen.
 
-**2. Das Publikum im Zentrum</br></br>**
+**[2. Das Publikum im Zentrum](02_publikum-im-zentrum.md)</br></br>**
 Wir stellen, gerade bei den digitalen Angeboten, das Publikum ins Zentrum. Wir wollen informieren, begeistern und faszinieren. Wir nutzen den Digitalen Raum um verschiedene Zugänge und Vermittlungsangebote für ein diverses Publikum zu entwickeln. Auf diese Weise schaffen wir einen digitalen Lernort, der das Museum vor Ort erweitert und mit dem digitalen Raum verschränkt.
 
 **3. Vernetzung mit der Welt</br></br>**
