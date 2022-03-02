@@ -2,8 +2,6 @@
 
 ## Leitlinien der Digitalen Strategie des Landesmuseum Württemberg
 
-
-**Einleitung</br></br>**
 Wir verstehen den Museumsbesuch als analoges und digitales Gesamterlebnis. In unserem Selbstverständnis sind das Digitale und das Analoge sich ergänzende, gleichwertige Bestand-teile einer zeitgemäßen Museumsarbeit. Das Museum der Gegenwart ist heute nicht mehr nur auf das Museumsgebäude begrenzt, sondern entwickelt die Zugänglichkeit, Reichweite und Sichtbarkeit der eigenen Angebote mit Selbstbewusstsein und -verständlichkeit auch professionell im Netz.
 Wir verstehen die digitale Strategie des Landesmuseums als Grundlage in der digitalen Weiterentwicklung des Hauses neben dem Leitbild. Sie bietet uns Orientierung und eine Leitlinie.
 
