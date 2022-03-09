@@ -1,9 +1,9 @@
-# Digitale-Strategie des Landesmuseum Württemberg
+# Digitale Strategie des Landesmuseum Württemberg
 
 [0. Leitlinien und Einführung](00_Leitlinien-und-Inhalt.md)
 
 
-# Die einzelnen Komponenten und Thmenfelder der Digitalen Strategie:
+# Die einzelnen Komponenten und Themenfelder der Digitalen Strategie:
 
 [1. Digitale Kompetenz](01_digitale-kompetenz.md)
 
