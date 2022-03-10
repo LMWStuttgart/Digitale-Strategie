@@ -19,7 +19,7 @@ Wir verfolgen eine Politik der offenen Kulturdaten und sind uns der Verantwortun
 
 **[4. Digitalisierung mit besonderer Verwantwortung](04_verantwortung.md)**
 
-Wir sind uns der besonderen Verantwortung bewusst, die die Digitalisierung eines Museumsbetriebs mit sich bringt. Der Umgang mit Daten, Rechten und Pflichten für Betreiber*innen und Nutzer*innen, die Wahl der Partner und Plattformen sowie der Umgang mit Ressourcen markieren Eckpunkte unserer digitalen Strategie. Wir digitalisieren unsere Bestände nach international gültigen Standards und Normen. Wir bevorzugen Lösungen, die offen und nachvollziehbar sind (Open Source).
+Der Umgang mit Daten, Rechten und Pflichten für Betreiber*innen und Nutzer*innen, die Wahl der Partner und Plattformen sowie der Umgang mit Ressourcen markieren Eckpunkte unserer digitalen Strategie. Wir digitalisieren unsere Bestände nach international gültigen Standards und Normen. Wir bevorzugen Lösungen, die offen und nachvollziehbar sind (Open Source).
 	
 **[5. Qualität im Netz](05_qualitaet.md)**
 
