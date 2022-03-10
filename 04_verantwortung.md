@@ -4,7 +4,7 @@ Wir sind uns der besonderen Verantwortung bewusst, die die Digitalisierung eines
 
 Heute entstehen im Museum in vielen Arbeitsbereichen Daten, sodass wir längst nicht mehr nur die Objekte digitalisieren, sondern auch mit einem kontinuierlich wachsenden Datenbestand umgehen müssen. Dabei stellen wir uns den Kriterien eines professionellen Forschungsdatenmanagements, bei dem alle Phasen des Datenlebenszyklus sowie Arbeitsprozesse transparent abgebildet und regelmäßig reflektiert sowie angepasst werden. Dazu zählt die Planung von Digitalisierungsprojekten, die Erstellung der Daten inklusive Qualitätssicherung, die langfristige Archivierung, die Schaffung von Zugängen über verschiedene Plattformen sowie die Ermöglichung der Nachnutzung durch offene Lizenzen, Schnittstellen und Interoperabilität der Daten:
 
-![Datenmanagementplan des Landesmuseum Württemberg](https://blog.landesmuseum-stuttgart.de/wp-content/uploads/2021/05/Datenlebenszyklus-LMW_Version1_211104-1536x1047.jpg)
+![Datenmanagementplan des Landesmuseum Württemberg](https://github.com/LMWStuttgart/Digitale-Strategie/blob/main/ressources/Datenmodell_LMW_20220310.png)
 
 Aktuell werden die Digitalisate des Landesmuseums Württemberg über maschinenlesbare Metadaten auf der Basis von Normdaten und Standards erschlossen, über ein stetig weiterentwickeltes Datenmodell entwickelt, in Datenbanken vorgehalten und über [Feeds (Lido/XML und JSON) bzw. eine API verfügbar gemacht](https://www.landesmuseum-stuttgart.de/sammlung/sammlung-online/).
 
